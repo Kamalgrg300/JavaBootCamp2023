@@ -35,6 +35,6 @@ class Message{
         System.out.println("registerNumber: "+ referenceNumber +  "   item: "+item);
     }
     void image(long item, byte registerNumber){
-        System.out.println("registerNumber: "+ registerNumber + "    item : "+item);
+        System.out.println("" item : "+item + "    registerNumber: "+ registerNumber);
     }
 }
